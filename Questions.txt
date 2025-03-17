@@ -1,0 +1,131 @@
+Basic Level (30 Questions)
+
+1️⃣ While Loop (5 Questions)
+Write a program to print numbers from 1 to 10 using a while loop.   -- done
+Use a while loop to print even numbers from 2 to 20.
+Find the sum of digits of a number using a while loop.
+Write a while loop to reverse a given number (e.g., 123 → 321).
+Print the multiplication table of a given number using a while loop.
+
+2️⃣ For Loop (5 Questions)
+Print numbers from 1 to 10 using a for loop.
+Print all odd numbers from 1 to 50 using a for loop.
+Write a for loop to calculate the sum of the first 10 natural numbers.
+Print the elements of a list using a for loop.
+Display a simple star pattern using a for loop.
+
+3️⃣ If Statements (5 Questions)
+Write a program to check if a number is positive, negative, or zero.
+Check if a number is even or odd using an if statement.
+Find the largest number among three numbers using if statements.
+Check if a number is divisible by both 5 and 7.
+Determine if a person is eligible to vote (age >= 18).
+
+4️⃣ Strings (5 Questions)
+Write a program to print the length of a given string.
+Convert a string to uppercase and lowercase.
+Count the number of vowels in a string.
+Reverse a string using slicing.
+Check if a string is a palindrome (e.g., "madam").
+
+5️⃣ Lists (5 Questions)
+Create a list with 5 elements and print each element.
+Find the sum of all elements in a list.
+Write a program to find the largest number in a list.
+Remove duplicates from a list.
+Append, insert, and delete elements from a list.
+
+6️⃣ Tuples (5 Questions)
+Create a tuple with five elements and print them.
+Access elements of a tuple using indexing.
+Convert a tuple to a list and modify an element.
+Find the length of a tuple.
+Count the occurrence of a specific element in a tuple.
+
+📌 Medium Level (30 Questions)
+
+1️⃣ While Loop (5 Questions)
+Find the factorial of a number using a while loop.
+Print the Fibonacci sequence up to n terms using a while loop.
+Count the number of digits in a given number using a while loop.
+Find the sum of even and odd digits separately from a number.
+Reverse a string using a while loop.
+
+2️⃣ For Loop (5 Questions)
+Find the sum of squares of first n natural numbers using a for loop.
+Write a program to check if a number is prime using a for loop.
+Print the first n Fibonacci numbers using a for loop.
+Count the frequency of each character in a string using a for loop.
+Print a pyramid pattern using a for loop.
+
+3️⃣ If Statements (5 Questions)
+Write a program to check if a year is a leap year.
+Implement a simple calculator using if statements.
+Check if a given three-digit number is an Armstrong number.
+Determine whether a person is underweight, normal, or overweight based on BMI.
+Implement a grading system based on marks using if-elif-else.
+
+4️⃣ Strings (5 Questions)
+Find the longest word in a given sentence.
+Write a program to remove all non-alphabetic characters from a string.
+Count the occurrence of a substring in a string.
+Write a program to replace all spaces in a string with underscores.
+Sort a string alphabetically.
+
+5️⃣ Lists (5 Questions)
+Find the second largest element in a list.
+Rotate a list to the left by k positions.
+Merge two sorted lists into a single sorted list.
+Remove all elements that occur more than once from a list.
+Find the intersection of two lists.
+
+6️⃣ Tuples (5 Questions)
+Find the index of a given element in a tuple.
+Convert a tuple of tuples into a dictionary.
+Sort a tuple of numbers in ascending and descending order.
+Write a program to find the common elements between two tuples.
+Convert a tuple into a string.
+
+📌 Advanced Level (30 Questions)
+
+1️⃣ While Loop (5 Questions)
+Implement a number guessing game using a while loop.
+Convert a decimal number to binary using a while loop.
+Implement a simple login system using a while loop with limited attempts.
+Find the greatest common divisor (GCD) of two numbers using a while loop.
+Implement a basic countdown timer using a while loop.
+
+2️⃣ For Loop (5 Questions)
+Generate Pascal’s Triangle using a for loop.
+Find all prime numbers within a given range using a for loop.
+Implement a word frequency counter using a for loop.
+Print all permutations of a given string using a for loop.
+Implement a basic encryption algorithm using character shifting.
+
+3️⃣ If Statements (5 Questions)
+Implement a basic rock-paper-scissors game.
+Check if a given string is an anagram of another string.
+Implement a Python program that checks for strong passwords.
+Write a program to check if a point lies inside a rectangle.
+Implement a Python script to check if a Sudoku board is valid.
+
+4️⃣ Strings (5 Questions)
+Implement run-length encoding for a given string.
+Reverse words in a sentence without reversing the characters.
+Write a function to check if two strings are rotations of each other.
+Find the most frequent word in a large text file.
+Implement a program to tokenize a string and count word occurrences.
+
+5️⃣ Lists (5 Questions)
+Implement matrix multiplication using lists.
+Implement a list-based queue with enqueue and dequeue operations.
+Find all possible subsets of a given list.
+Write a function to flatten a nested list.
+Implement a sliding window maximum for a given list.
+
+6️⃣ Tuples (5 Questions)
+Implement a function to sort a list of tuples based on multiple criteria.
+Find all unique pairs in a tuple that sum up to a given value.
+Implement a function that converts a tuple of numbers into their textual representation.
+Write a function to partition a tuple into even and odd numbers.
+Implement a function that finds the longest common prefix in a tuple of strings.
